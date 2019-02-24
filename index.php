@@ -1,4 +1,3 @@
 <?php
-	aaaaa
-	bbbbbbbb
+	echo '123';
 	echo 'hello world!';
